@@ -29,3 +29,8 @@ For this image classification task, you will be using an image classification ap
 We have provided you with a classifier function in classifier.py that will allow you to use these CNNs to classify your images. The test_classifier.py file contains an example program that demonstrates how to use the classifier function. For this project, you will be focusing on using your Python skills to complete these tasks using the classifier function.
 
 Remember that certain breeds of dogs look very similar. The more images of two similar-looking dog breeds that the algorithm has learned from, the more likely the algorithm will be able to distinguish between those two breeds. We have found the following breeds to look very similar: Great Pyrenees(opens in a new tab) and Kuvasz(opens in a new tab), German Shepherd(opens in a new tab) and Malinois(opens in a new tab), Beagle(opens in a new tab) and Walker Hound(opens in a new tab), amongst others.
+
+📸 Developed a Python-based solution to classify dog images for a citywide dog show registration system.
+🔍 Explored deep learning models like AlexNet, VGG, and ResNet to determine the best CNN architecture for identifying "dogs" vs. "not dogs" and even specific breeds.
+⏱ Balanced the trade-offs between accuracy and runtime while ensuring computational efficiency.
+💡 Learned about the challenges of similar-looking dog breeds (like German Shepherds vs. Malinois) and the importance of large datasets like ImageNet for training robust classifiers.
